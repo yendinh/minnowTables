@@ -1,13 +1,15 @@
 Package: minnowTables
-Title: What the Package Does (One Line, Title Case)
+Title: R Package for Excel table formatting. 
 Version: 0.0.0.9000
 Authors@R: 
     person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+Description: Helps create excel tables in R.
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
     license
+URL: https://github.com/Trinity-Minnow/minnowTables
+BugReports: https://github.com/Trinity-Minnow/minnowTables/issues
+Imports: 
+    magrittr
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.3
-URL: https://github.com/Trinity-Minnow/minnowTables
-BugReports: https://github.com/Trinity-Minnow/minnowTables/issues
